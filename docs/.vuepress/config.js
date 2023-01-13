@@ -8,6 +8,7 @@ module.exports = {
                 text: 'T8840 博客', 
                 items: [
                     { text: 'Github', link: 'https://github.com/t8840' },
+                ]
             }
         ]
     }
