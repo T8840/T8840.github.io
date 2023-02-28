@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Neal‘s World</title>
+  
+  
+  <link href="https://neal.place/atom.xml" rel="self"/>
+  
+  <link href="https://neal.place/"/>
+  <updated>2023-02-26T14:05:05.000Z</updated>
+  <id>https://neal.place/</id>
+  
+  <author>
+    <name>neal</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Solidity</title>
+    <link href="https://neal.place/posts/b9a928cc/"/>
+    <id>https://neal.place/posts/b9a928cc/</id>
+    <published>2023-02-26T14:05:05.000Z</published>
+    <updated>2023-02-26T14:05:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="solidity"><a class="markdownIt-Anchor" href="#solidity"></a> Solidity</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;solidity&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#solidity&quot;&gt;&lt;/a&gt; Solidity&lt;/h2&gt;
+</summary>
+      
+    
+    
+    
+    <category term="编程语言" scheme="https://neal.place/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="Solidity" scheme="https://neal.place/tags/Solidity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://neal.place/posts/9daba997/"/>
+    <id>https://neal.place/posts/9daba997/</id>
+    <published>2023-02-26T14:04:00.000Z</published>
+    <updated>2023-02-26T14:04:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="测试"><a class="markdownIt-Anchor" href="#测试"></a> 测试</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;测试&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#测试&quot;&gt;&lt;/a&gt; 测试&lt;/h2&gt;
+</summary>
+      
+    
+    
+    
+    <category term="测试开发" scheme="https://neal.place/categories/%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Test" scheme="https://neal.place/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python入门</title>
+    <link href="https://neal.place/posts/d9ef328/"/>
+    <id>https://neal.place/posts/d9ef328/</id>
+    <published>2023-02-26T14:02:52.000Z</published>
+    <updated>2023-02-26T14:02:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="python"><a class="markdownIt-Anchor" href="#python"></a> Python</h2><p>Python入门</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;python&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#python&quot;&gt;&lt;/a&gt; Python&lt;/h2&gt;
+&lt;p&gt;Python入门&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="编程语言" scheme="https://neal.place/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="Python" scheme="https://neal.place/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go入门</title>
+    <link href="https://neal.place/posts/3e80a85d/"/>
+    <id>https://neal.place/posts/3e80a85d/</id>
+    <published>2023-02-26T13:54:26.000Z</published>
+    <updated>2023-02-26T13:54:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="go"><a class="markdownIt-Anchor" href="#go"></a> Go</h2><p>Go入门</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;go&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#go&quot;&gt;&lt;/a&gt; Go&lt;/h2&gt;
+&lt;p&gt;Go入门&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="编程语言" scheme="https://neal.place/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="Go" scheme="https://neal.place/tags/Go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://neal.place/posts/4a17b156/"/>
+    <id>https://neal.place/posts/4a17b156/</id>
+    <published>2023-02-26T02:03:05.142Z</published>
+    <updated>2023-02-26T02:03:05.142Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
