@@ -56,6 +56,13 @@ deploy:
     - https://wallhaven.cc/
 3. 图片压缩尺寸处理
     - https://www.topdodo.com/size    
+4. 随机图片API
+    - 动漫图片： https://www.dmoe.cc/random.php
+    - 指定类型图片：
+        1. https://source.unsplash.com/1600x900/?nature,water
+        2. https://source.unsplash.com/random
+        3. https://unsplash.it/1600/900?random
+
 ### 图床
 1. https://7bu.top/
 
