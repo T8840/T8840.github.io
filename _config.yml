@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Neal‘s World
+title: Neal's World
 subtitle: ''
 description: 
 keywords: Python,Go,Vue,Java,C++,Linux,Solidity
@@ -14,7 +14,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 # 改动的地方
-url: https://neal.place
+url: https://t8840.github.io/project
 root: /
 #permalink: :year/:month/:day/:title/
 permalink: posts/:abbrlink/

@@ -13,7 +13,9 @@ npm install
 下载的主题item放在themes目录中,修改_config.yml中theme: item
 
 4. 写作
-
+```sh
+hexo 
+```
 5. 上传
 配置_config.yml中的repo信息
 ```sh
@@ -57,11 +59,15 @@ deploy:
 3. 图片压缩尺寸处理
     - https://www.topdodo.com/size    
 4. 随机图片API
-    - 动漫图片： https://www.dmoe.cc/random.php
+    - 动漫图片： 
+        1. https://api.vvhan.com/api/acgimg
+        2. https://www.dmoe.cc/random.php
     - 指定类型图片：
         1. https://source.unsplash.com/1600x900/?nature,water
         2. https://source.unsplash.com/random
         3. https://unsplash.it/1600/900?random
+    - 风景
+        1. https://api.vvhan.com/api/view
 
 ### 图床
 1. https://7bu.top/
