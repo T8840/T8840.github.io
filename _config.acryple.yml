@@ -17,7 +17,12 @@ menu:
     # 日志: /update/ || fa fa-bell 
     # 留言板: /messageboard/ || fa fa-blackboard
   专栏 || fa fa-sitemap:  
+    测试开发: /test/
     WEB3: /web3/
+    Go : /go/
+    Python: /python/
+    Rust: /rust/
+    Devops: /devops/
     量化交易: /trade/
     正念: /mindfulness/
   我的 || fa-fw fas fa-address-card:
