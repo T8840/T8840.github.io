@@ -14,7 +14,7 @@ npm install
 
 4. 写作
 ```sh
-hexo 
+hexo new "file_name"
 ```
 5. 上传
 配置_config.yml中的repo信息

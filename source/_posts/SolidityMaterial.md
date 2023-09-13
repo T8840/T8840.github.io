@@ -1,6 +1,6 @@
 ---
 title: Solidity资料
-cover: ''
+cover: 'https://source.unsplash.com/random'
 abbrlink: '77571803'
 date: 2023-03-01 21:22:05
 updated: 2023-03-01 21:22:05

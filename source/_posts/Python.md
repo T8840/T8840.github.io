@@ -1,6 +1,6 @@
 ---
 title: Python入门
-cover: ''
+cover: 'https://source.unsplash.com/random'
 tags: Python
 categories: 编程语言
 abbrlink: d9ef328

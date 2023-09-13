@@ -1,6 +1,6 @@
 ---
 title: Go入门
-cover: ''
+cover: 'https://images.unsplash.com/photo-1692649588804-99a47dddcdff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NDU5MzY1MQ&ixlib=rb-4.0.3&q=80&w=1080'
 tags: Go
 categories: 编程语言
 abbrlink: 3e80a85d

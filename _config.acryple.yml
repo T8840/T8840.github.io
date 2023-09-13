@@ -71,11 +71,11 @@ social:
   fab fa-github: https://github.com/t8840 || Github
   #fas fa-envelope: mailto:lyx2010official.outlook.com || Email
   #iconfont icon-gitee: https://gitee.com/lyxofficial || Gitee
-  iconfont icon-csdn: https://blog.csdn.net/weixin_44101108 || CSDN
-  iconfont icon-RSS: https://www.cnblogs.com/LYXOfficial || 博客园
+  iconfont icon-csdn: https://blog.csdn.net/ || CSDN
+  iconfont icon-RSS: https://www.cnblogs.com/ || 博客园
   fa fa-rss: /atom.xml || 订阅RSS源
-  iconfont icon-zhihu: https://www.zhihu.com/people/lyx-29-86-4 || 知乎
-  iconfont icon-bilibili: https://space.bilibili.com/369280472 || bilibili
+  iconfont icon-zhihu: https://www.zhihu.com/people/ || 知乎
+  iconfont icon-bilibili: https://space.bilibili.com/ || bilibili
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -140,7 +140,7 @@ tag_img: https://api.vvhan.com/api/view
 # The banner image of tag page
 # format:
 #  - tag name: xxxxx
-tag_per_img:
+tag_per_img: https://api.vvhan.com/api/view
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
@@ -149,7 +149,7 @@ category_img: https://api.vvhan.com/api/view
 # The banner image of category page
 # format:
 #  - category name: xxxxx
-category_per_img:
+category_per_img: https://api.vvhan.com/api/view
 
 cover:
   # display the cover or not (是否顯示文章封面)
@@ -1136,19 +1136,19 @@ fixed_card_widget:
 gitcalendar:
   enable: true
   simplemode: false
-  user: # LYXOfficial
-  # layout:
-  #   type: class
-  #   name: gc
-  #   index: 0
-  # githubcalendar_html: '<div class="recent-post-item" style="width:100%;height:auto;"><div id="github_loading" style="width:10%;height:100%;margin:0 auto;display: block"><svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"  viewBox="0 0 50 50" style="enable-background:new 0 0 50 50" xml:space="preserve"><path fill="#d0d0d0" d="M25.251,6.461c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615V6.461z" transform="rotate(275.098 25 25)"><animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform></path></svg></div><div id="github_container"></div></div>'
-  # pc_minheight: 140px
-  # mobile_minheight: 0px
+  user: t8840
+  layout:
+    type: class
+    name: gc
+    index: 0
+  githubcalendar_html: '<div class="recent-post-item" style="width:100%;height:auto;"><div id="github_loading" style="width:10%;height:100%;margin:0 auto;display: block"><svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"  viewBox="0 0 50 50" style="enable-background:new 0 0 50 50" xml:space="preserve"><path fill="#d0d0d0" d="M25.251,6.461c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615V6.461z" transform="rotate(275.098 25 25)"><animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform></path></svg></div><div id="github_container"></div></div>'
+  pc_minheight: 140px
+  mobile_minheight: 0px
 # color: "['#ebedf0', '#fdcdec', '#fc9bd9', '#fa6ac5', '#f838b2', '#f5089f', '#c4067e', '#92055e', '#540336', '#48022f', '#30021f']" #浅紫色调
 # color: "['#e4dfd7', '#f9f4dc', '#f7e8aa', '#f7e8aa', '#f8df72', '#fcd217', '#fcc515', '#f28e16', '#fb8b05', '#d85916', '#f43e06']" #橘黄色调
 #  color: "['#ebedf0', '#f0fff4', '#dcffe4', '#bef5cb', '#85e89d', '#34d058', '#28a745', '#22863a', '#176f2c', '#165c26', '#144620']" #翠绿色调
   color: "['#ebedf0', '#f1f8ff', '#dbedff', '#c8e1ff', '#79b8ff', '#2188ff', '#0366d6', '#005cc5', '#044289', '#032f62', '#05264c']" #天青色调
-  apiurl: # gcapi.yisous.xyz
-  # api: https://python-gitee-calendar-api.vercel.app/api
-  # calendar_js: https://cdn1.tianli0.top/npm/reverse-stu-allversions@1.0.1/butterfly/diy/hexo_githubcalendar.js
-  # plus_style: ""
+  apiurl: gcapi.yisous.xyz
+  api: https://python-gitee-calendar-api.vercel.app/api
+  calendar_js: https://cdn1.tianli0.top/npm/reverse-stu-allversions@1.0.1/butterfly/diy/hexo_githubcalendar.js
+  plus_style: ""

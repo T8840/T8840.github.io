@@ -1,6 +1,6 @@
 ---
 title: Solidity
-cover: ''
+cover: 'https://source.unsplash.com/random'
 tags: Solidity
 categories: 编程语言
 abbrlink: b9a928cc
