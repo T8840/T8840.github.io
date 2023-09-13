@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>常用API测试工具</title>
+      <link href="/posts/eda31c22/"/>
+      <url>/posts/eda31c22/</url>
+      
+        <content type="html"><![CDATA[<h2 id="抓包工具"><a class="markdownIt-Anchor" href="#抓包工具"></a> 抓包工具</h2><h3 id="mitmproxyanyproxy"><a class="markdownIt-Anchor" href="#mitmproxyanyproxy"></a> mitmproxy/anyproxy</h3><h3 id="burpsuitefiddlecharles"><a class="markdownIt-Anchor" href="#burpsuitefiddlecharles"></a> burpsuite/fiddle/Charles</h3><h2 id="http-client工具"><a class="markdownIt-Anchor" href="#http-client工具"></a> http client工具</h2><h3 id="requesthttpxaiohttp"><a class="markdownIt-Anchor" href="#requesthttpxaiohttp"></a> request/httpx/aiohttp</h3><h3 id="httprunner"><a class="markdownIt-Anchor" href="#httprunner"></a> httprunner</h3><h3 id="yapi"><a class="markdownIt-Anchor" href="#yapi"></a> Yapi</h3><h3 id="jmeter"><a class="markdownIt-Anchor" href="#jmeter"></a> Jmeter</h3><h3 id="apiauto"><a class="markdownIt-Anchor" href="#apiauto"></a> APIAuto</h3><p><a href="https://github.com/TommyLemon/APIAuto">https://github.com/TommyLemon/APIAuto</a></p><h3 id="hoppscotch"><a class="markdownIt-Anchor" href="#hoppscotch"></a> hoppscotch</h3><p>Open source API development ecosystem<br /><a href="https://github.com/hoppscotch/hoppscotch">https://github.com/hoppscotch/hoppscotch</a></p><h2 id="mock工具"><a class="markdownIt-Anchor" href="#mock工具"></a> Mock工具</h2><h3 id="yapi-2"><a class="markdownIt-Anchor" href="#yapi-2"></a> YApi</h3><h3 id="easymock"><a class="markdownIt-Anchor" href="#easymock"></a> EasyMock</h3><h3 id="httpretty"><a class="markdownIt-Anchor" href="#httpretty"></a> HTTPretty</h3><p><a href="https://github.com/gabrielfalcao/HTTPretty">https://github.com/gabrielfalcao/HTTPretty</a></p><h2 id="商用工具"><a class="markdownIt-Anchor" href="#商用工具"></a> 商用工具</h2><h3 id="apifox"><a class="markdownIt-Anchor" href="#apifox"></a> Apifox</h3><p>Apifox = Postman + Swagger + Mock + JMeter<br />文档：<a href="https://www.apifox.cn/help">https://www.apifox.cn/help</a></p><h3 id="metepheres"><a class="markdownIt-Anchor" href="#metepheres"></a> Metepheres</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/4a17b156/"/>
       <url>/posts/4a17b156/</url>

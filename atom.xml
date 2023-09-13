@@ -6,7 +6,7 @@
   <link href="https://t8840.github.io/project/atom.xml" rel="self"/>
   
   <link href="https://t8840.github.io/project/"/>
-  <updated>2023-09-13T06:44:16.116Z</updated>
+  <updated>2023-09-13T08:12:46.000Z</updated>
   <id>https://t8840.github.io/project/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>常用API测试工具</title>
+    <link href="https://t8840.github.io/project/posts/eda31c22/"/>
+    <id>https://t8840.github.io/project/posts/eda31c22/</id>
+    <published>2023-09-13T08:12:46.000Z</published>
+    <updated>2023-09-13T08:12:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="抓包工具"><a class="markdownIt-Anchor" href="#抓包工具"></a> 抓包工具</h2><h3 id="mitmproxyanyproxy"><a class="markdownIt-Anchor" href="#mitmproxyanyproxy"></a> mitmproxy/anyproxy</h3><h3 id="burpsuitefiddlecharles"><a class="markdownIt-Anchor" href="#burpsuitefiddlecharles"></a> burpsuite/fiddle/Charles</h3><h2 id="http-client工具"><a class="markdownIt-Anchor" href="#http-client工具"></a> http client工具</h2><h3 id="requesthttpxaiohttp"><a class="markdownIt-Anchor" href="#requesthttpxaiohttp"></a> request/httpx/aiohttp</h3><h3 id="httprunner"><a class="markdownIt-Anchor" href="#httprunner"></a> httprunner</h3><h3 id="yapi"><a class="markdownIt-Anchor" href="#yapi"></a> Yapi</h3><h3 id="jmeter"><a class="markdownIt-Anchor" href="#jmeter"></a> Jmeter</h3><h3 id="apiauto"><a class="markdownIt-Anchor" href="#apiauto"></a> APIAuto</h3><p><a href="https://github.com/TommyLemon/APIAuto">https://github.com/TommyLemon/APIAuto</a></p><h3 id="hoppscotch"><a class="markdownIt-Anchor" href="#hoppscotch"></a> hoppscotch</h3><p>Open source API development ecosystem<br /><a href="https://github.com/hoppscotch/hoppscotch">https://github.com/hoppscotch/hoppscotch</a></p><h2 id="mock工具"><a class="markdownIt-Anchor" href="#mock工具"></a> Mock工具</h2><h3 id="yapi-2"><a class="markdownIt-Anchor" href="#yapi-2"></a> YApi</h3><h3 id="easymock"><a class="markdownIt-Anchor" href="#easymock"></a> EasyMock</h3><h3 id="httpretty"><a class="markdownIt-Anchor" href="#httpretty"></a> HTTPretty</h3><p><a href="https://github.com/gabrielfalcao/HTTPretty">https://github.com/gabrielfalcao/HTTPretty</a></p><h2 id="商用工具"><a class="markdownIt-Anchor" href="#商用工具"></a> 商用工具</h2><h3 id="apifox"><a class="markdownIt-Anchor" href="#apifox"></a> Apifox</h3><p>Apifox = Postman + Swagger + Mock + JMeter<br />文档：<a href="https://www.apifox.cn/help">https://www.apifox.cn/help</a></p><h3 id="metepheres"><a class="markdownIt-Anchor" href="#metepheres"></a> Metepheres</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;抓包工具&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#抓包工具&quot;&gt;&lt;/a&gt; 抓包工具&lt;/h2&gt;
+&lt;h3 id=&quot;mitmproxyanyproxy&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#mitmpr</summary>
+      
+    
+    
+    
+    <category term="测试开发" scheme="https://t8840.github.io/project/categories/%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="Test" scheme="https://t8840.github.io/project/tags/Test/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
