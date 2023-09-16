@@ -4,7 +4,7 @@ cover: 'https://images.unsplash.com/photo-1691592740675-e547c25953a9?crop=entrop
 abbrlink: 8df76a52
 date: 2023-09-13 17:18:23
 updated: 2023-09-13 17:18:23
-tags: 身心灵
-categories: 身心灵
+tags: Mental
+categories: Mental
 ---
 
