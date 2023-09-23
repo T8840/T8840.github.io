@@ -1,10 +1,12 @@
 ---
 title: Nodejs环境配置
-cover: 'https://images.unsplash.com/photo-1691841921811-c03b83c92938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NDY3NTUxNg&ixlib=rb-4.0.3&q=80&w=1080'
-date: 2023-09-14 14:59:05
-updated: 2023-09-14 14:59:05
+cover: >-
+  https://images.unsplash.com/photo-1691841921811-c03b83c92938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NDY3NTUxNg&ixlib=rb-4.0.3&q=80&w=1080
 tags: JS
 categories: JS
+abbrlink: 4fe94406
+date: 2023-09-14 14:59:05
+updated: 2023-09-14 14:59:05
 ---
 
 ## 安装NVM

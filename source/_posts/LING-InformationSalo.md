@@ -1,10 +1,12 @@
 ---
 title: LING-Infomation Salo
-cover: 'https://images.unsplash.com/photo-1693074446829-5ab7b5bdd6e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NDczNTg3MA&ixlib=rb-4.0.3&q=80&w=1080'
-date: 2023-09-15 07:45:10
-updated: 2023-09-15 07:45:10
+cover: >-
+  https://images.unsplash.com/photo-1693074446829-5ab7b5bdd6e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NDczNTg3MA&ixlib=rb-4.0.3&q=80&w=1080
 tags: Mental
 categories: Mental
+abbrlink: 78e9cc95
+date: 2023-09-15 07:45:10
+updated: 2023-09-15 07:45:10
 ---
 
 

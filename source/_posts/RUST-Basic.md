@@ -1,6 +1,7 @@
 ---
 title: RUST-Basic
 cover: ''
+abbrlink: 4635b819
 date: 2023-09-15 07:58:27
 updated: 2023-09-15 07:58:27
 tags:

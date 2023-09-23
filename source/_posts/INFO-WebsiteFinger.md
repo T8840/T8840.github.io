@@ -1,10 +1,11 @@
 ---
 title: INFO-WebsiteFinger
 cover: ''
-date: 2023-09-15 17:27:53
-updated: 2023-09-15 17:27:53
 tags: InfoCollect
 categories: InfoCollect
+abbrlink: daccb71
+date: 2023-09-15 17:27:53
+updated: 2023-09-15 17:27:53
 ---
 
 ## Web-check

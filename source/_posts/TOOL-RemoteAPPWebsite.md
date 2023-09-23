@@ -1,10 +1,11 @@
 ---
 title: TOOL-RemoteAPPWebsite
 cover: ''
-date: 2023-09-15 10:12:59
-updated: 2023-09-15 10:12:59
 tags: TOOL TEST
 categories: TOOL
+abbrlink: 58f8afd2
+date: 2023-09-15 10:12:59
+updated: 2023-09-15 10:12:59
 ---
 
 ## APPETIZE

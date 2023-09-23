@@ -1,6 +1,7 @@
 ---
 title: RUST
 cover: ''
+abbrlink: d7a76f14
 date: 2023-09-15 07:58:15
 updated: 2023-09-15 07:58:15
 tags:

@@ -1,10 +1,11 @@
 ---
 title: XRAY
 cover: ''
-date: 2023-09-15 15:21:54
-updated: 2023-09-15 15:21:54
 tags: Test
 categories: 测试开发
+abbrlink: bb10959b
+date: 2023-09-15 15:21:54
+updated: 2023-09-15 15:21:54
 ---
 
 

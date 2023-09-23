@@ -1,6 +1,7 @@
 ---
 title: RUST-Test
 cover: ''
+abbrlink: 4211dcac
 date: 2023-09-16 18:01:17
 updated: 2023-09-16 18:01:17
 tags:

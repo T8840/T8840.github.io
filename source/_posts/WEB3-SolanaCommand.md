@@ -1,10 +1,11 @@
 ---
 title: Solana环境部署
 cover: ''
-date: 2023-09-14 16:51:28
-updated: 2023-09-14 16:51:28
 tags: Web3
 categories: Web3
+abbrlink: aad447b0
+date: 2023-09-14 16:51:28
+updated: 2023-09-14 16:51:28
 ---
 
 ## 安装
@@ -14,7 +15,9 @@ categories: Web3
 ### 二进制安装
 
 
+## Solana Cli
 
+### 
 
 ## 问题处理
 
@@ -62,5 +65,11 @@ categories: Web3
 
 
 2. 
+
+
+
+
+
+
 
 
